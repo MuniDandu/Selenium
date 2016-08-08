@@ -24,6 +24,10 @@ public class NewTest {
 	  
   }
   
+  
+  
+  
+  
   @Test
   public void f() {
 	  String currentURl = driver.getCurrentUrl();

@@ -27,6 +27,10 @@ public class TestNGDemo {
 		 Assert.assertEquals(currentURL, "https://ebay.co.uk");
 		 driver.manage().window().maximize();
 	 }
+	 @Test
+	 public void testMethod(){
+		 
+	 }
  
 
 	 @AfterClass
